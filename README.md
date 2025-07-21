@@ -30,8 +30,7 @@ To set up the project locally, follow these steps:
 2. **Create a Virtual Environment** (optional but recommended):
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+   use `venv\Scripts\activate` On Linux source venv/bin/activate  
 
 3. **Install Dependencies**:
    ```bash
